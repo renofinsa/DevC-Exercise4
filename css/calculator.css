@@ -1,0 +1,28 @@
+.btnNumber {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.btnNumberBS {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.pd-5 {
+    padding: 5px;
+}
+
+.card-style{
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.size-card {
+     width: 500px;
+     border: 1px solid #fafafa;
+}
+.centertext{
+    text-align: center;
+}
